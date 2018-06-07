@@ -1,0 +1,62 @@
+p {
+  font-size: 20px;
+}
+
+.nav-item {
+  margin-left: 100px;
+}
+
+.corpo {
+  font-family: 'Lato', sans-serif;
+  background-color: lightseagreen;
+}
+
+#title01{
+    color: white;
+
+}
+
+#title01:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+#contact_btn {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#contact_btn:hover {
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+
+#info_btn_02 {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#info_btn_02:hover {
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+
+#logo {
+  padding-left: 370px;
+  padding-top: 30px;
+}
+
+#info_container {
+  background-color: #EFEFEF;
+}
+
+#contact_container{
+  background-color: #EFEFEF;
+}
+
